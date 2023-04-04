@@ -1,0 +1,15 @@
+C:\Project\Brander\OP.Brander.Back\OP.Brander.Application\bin\Debug\net6.0\OP.Brander.Application.deps.json
+C:\Project\Brander\OP.Brander.Back\OP.Brander.Application\bin\Debug\net6.0\OP.Brander.Application.dll
+C:\Project\Brander\OP.Brander.Back\OP.Brander.Application\bin\Debug\net6.0\OP.Brander.Application.pdb
+C:\Project\Brander\OP.Brander.Back\OP.Brander.Application\bin\Debug\net6.0\OP.Brander.Domain.dll
+C:\Project\Brander\OP.Brander.Back\OP.Brander.Application\bin\Debug\net6.0\OP.Brander.Domain.pdb
+C:\Project\Brander\OP.Brander.Back\OP.Brander.Application\obj\Debug\net6.0\OP.Brander.Application.csproj.AssemblyReference.cache
+C:\Project\Brander\OP.Brander.Back\OP.Brander.Application\obj\Debug\net6.0\OP.Brander.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\Brander\OP.Brander.Back\OP.Brander.Application\obj\Debug\net6.0\OP.Brander.Application.AssemblyInfoInputs.cache
+C:\Project\Brander\OP.Brander.Back\OP.Brander.Application\obj\Debug\net6.0\OP.Brander.Application.AssemblyInfo.cs
+C:\Project\Brander\OP.Brander.Back\OP.Brander.Application\obj\Debug\net6.0\OP.Brander.Application.csproj.CoreCompileInputs.cache
+C:\Project\Brander\OP.Brander.Back\OP.Brander.Application\obj\Debug\net6.0\OP.Brander.Application.csproj.CopyComplete
+C:\Project\Brander\OP.Brander.Back\OP.Brander.Application\obj\Debug\net6.0\OP.Brander.Application.dll
+C:\Project\Brander\OP.Brander.Back\OP.Brander.Application\obj\Debug\net6.0\refint\OP.Brander.Application.dll
+C:\Project\Brander\OP.Brander.Back\OP.Brander.Application\obj\Debug\net6.0\OP.Brander.Application.pdb
+C:\Project\Brander\OP.Brander.Back\OP.Brander.Application\obj\Debug\net6.0\ref\OP.Brander.Application.dll

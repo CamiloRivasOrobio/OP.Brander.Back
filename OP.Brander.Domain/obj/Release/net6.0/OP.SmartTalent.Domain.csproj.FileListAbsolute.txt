@@ -1,0 +1,12 @@
+C:\Project\SmartTalent\OP.SmartTalent.Api\OP.SmartTalent.Domain\bin\Release\net6.0\OP.SmartTalent.Domain.deps.json
+C:\Project\SmartTalent\OP.SmartTalent.Api\OP.SmartTalent.Domain\bin\Release\net6.0\OP.SmartTalent.Domain.dll
+C:\Project\SmartTalent\OP.SmartTalent.Api\OP.SmartTalent.Domain\bin\Release\net6.0\OP.SmartTalent.Domain.pdb
+C:\Project\SmartTalent\OP.SmartTalent.Api\OP.SmartTalent.Domain\obj\Release\net6.0\OP.SmartTalent.Domain.csproj.AssemblyReference.cache
+C:\Project\SmartTalent\OP.SmartTalent.Api\OP.SmartTalent.Domain\obj\Release\net6.0\OP.SmartTalent.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\SmartTalent\OP.SmartTalent.Api\OP.SmartTalent.Domain\obj\Release\net6.0\OP.SmartTalent.Domain.AssemblyInfoInputs.cache
+C:\Project\SmartTalent\OP.SmartTalent.Api\OP.SmartTalent.Domain\obj\Release\net6.0\OP.SmartTalent.Domain.AssemblyInfo.cs
+C:\Project\SmartTalent\OP.SmartTalent.Api\OP.SmartTalent.Domain\obj\Release\net6.0\OP.SmartTalent.Domain.csproj.CoreCompileInputs.cache
+C:\Project\SmartTalent\OP.SmartTalent.Api\OP.SmartTalent.Domain\obj\Release\net6.0\OP.SmartTalent.Domain.dll
+C:\Project\SmartTalent\OP.SmartTalent.Api\OP.SmartTalent.Domain\obj\Release\net6.0\refint\OP.SmartTalent.Domain.dll
+C:\Project\SmartTalent\OP.SmartTalent.Api\OP.SmartTalent.Domain\obj\Release\net6.0\OP.SmartTalent.Domain.pdb
+C:\Project\SmartTalent\OP.SmartTalent.Api\OP.SmartTalent.Domain\obj\Release\net6.0\ref\OP.SmartTalent.Domain.dll

@@ -1,0 +1,17 @@
+C:\Project\SmartTalent\OP.SmartTalent.Api\OP.SmartTalent.Persistence\bin\Release\net6.0\OP.SmartTalent.Persistence.deps.json
+C:\Project\SmartTalent\OP.SmartTalent.Api\OP.SmartTalent.Persistence\bin\Release\net6.0\OP.SmartTalent.Persistence.dll
+C:\Project\SmartTalent\OP.SmartTalent.Api\OP.SmartTalent.Persistence\bin\Release\net6.0\OP.SmartTalent.Persistence.pdb
+C:\Project\SmartTalent\OP.SmartTalent.Api\OP.SmartTalent.Persistence\bin\Release\net6.0\OP.SmartTalent.Application.dll
+C:\Project\SmartTalent\OP.SmartTalent.Api\OP.SmartTalent.Persistence\bin\Release\net6.0\OP.SmartTalent.Domain.dll
+C:\Project\SmartTalent\OP.SmartTalent.Api\OP.SmartTalent.Persistence\bin\Release\net6.0\OP.SmartTalent.Application.pdb
+C:\Project\SmartTalent\OP.SmartTalent.Api\OP.SmartTalent.Persistence\bin\Release\net6.0\OP.SmartTalent.Domain.pdb
+C:\Project\SmartTalent\OP.SmartTalent.Api\OP.SmartTalent.Persistence\obj\Release\net6.0\OP.SmartTalent.Persistence.csproj.AssemblyReference.cache
+C:\Project\SmartTalent\OP.SmartTalent.Api\OP.SmartTalent.Persistence\obj\Release\net6.0\OP.SmartTalent.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\SmartTalent\OP.SmartTalent.Api\OP.SmartTalent.Persistence\obj\Release\net6.0\OP.SmartTalent.Persistence.AssemblyInfoInputs.cache
+C:\Project\SmartTalent\OP.SmartTalent.Api\OP.SmartTalent.Persistence\obj\Release\net6.0\OP.SmartTalent.Persistence.AssemblyInfo.cs
+C:\Project\SmartTalent\OP.SmartTalent.Api\OP.SmartTalent.Persistence\obj\Release\net6.0\OP.SmartTalent.Persistence.csproj.CoreCompileInputs.cache
+C:\Project\SmartTalent\OP.SmartTalent.Api\OP.SmartTalent.Persistence\obj\Release\net6.0\OP.SmartTalent.Persistence.csproj.CopyComplete
+C:\Project\SmartTalent\OP.SmartTalent.Api\OP.SmartTalent.Persistence\obj\Release\net6.0\OP.SmartTalent.Persistence.dll
+C:\Project\SmartTalent\OP.SmartTalent.Api\OP.SmartTalent.Persistence\obj\Release\net6.0\refint\OP.SmartTalent.Persistence.dll
+C:\Project\SmartTalent\OP.SmartTalent.Api\OP.SmartTalent.Persistence\obj\Release\net6.0\OP.SmartTalent.Persistence.pdb
+C:\Project\SmartTalent\OP.SmartTalent.Api\OP.SmartTalent.Persistence\obj\Release\net6.0\ref\OP.SmartTalent.Persistence.dll

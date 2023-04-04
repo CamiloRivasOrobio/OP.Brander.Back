@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "QkYMBRPjf6ix9hv5yo39EA/k7ztZpne+E1uceQyfTVw=",
+  "Source": "OP.Brander.WebAPI",
+  "BasePath": "_content/OP.Brander.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

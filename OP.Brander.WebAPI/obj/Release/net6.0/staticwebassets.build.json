@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "2OFeA9an3km/c1VDtsK77T5+yubNZkZF0pINWI9Nmc0=",
+  "Source": "OP.SmartTalent.WebAPI",
+  "BasePath": "_content/OP.SmartTalent.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

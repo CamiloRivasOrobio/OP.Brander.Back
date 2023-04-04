@@ -1,0 +1,17 @@
+C:\Project\SmartTalent\OP.SmartTalent.Api\OP.SmartTalent.Shared\bin\Release\net6.0\OP.SmartTalent.Shared.deps.json
+C:\Project\SmartTalent\OP.SmartTalent.Api\OP.SmartTalent.Shared\bin\Release\net6.0\OP.SmartTalent.Shared.dll
+C:\Project\SmartTalent\OP.SmartTalent.Api\OP.SmartTalent.Shared\bin\Release\net6.0\OP.SmartTalent.Shared.pdb
+C:\Project\SmartTalent\OP.SmartTalent.Api\OP.SmartTalent.Shared\bin\Release\net6.0\OP.SmartTalent.Application.dll
+C:\Project\SmartTalent\OP.SmartTalent.Api\OP.SmartTalent.Shared\bin\Release\net6.0\OP.SmartTalent.Domain.dll
+C:\Project\SmartTalent\OP.SmartTalent.Api\OP.SmartTalent.Shared\bin\Release\net6.0\OP.SmartTalent.Application.pdb
+C:\Project\SmartTalent\OP.SmartTalent.Api\OP.SmartTalent.Shared\bin\Release\net6.0\OP.SmartTalent.Domain.pdb
+C:\Project\SmartTalent\OP.SmartTalent.Api\OP.SmartTalent.Shared\obj\Release\net6.0\OP.SmartTalent.Shared.csproj.AssemblyReference.cache
+C:\Project\SmartTalent\OP.SmartTalent.Api\OP.SmartTalent.Shared\obj\Release\net6.0\OP.SmartTalent.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\SmartTalent\OP.SmartTalent.Api\OP.SmartTalent.Shared\obj\Release\net6.0\OP.SmartTalent.Shared.AssemblyInfoInputs.cache
+C:\Project\SmartTalent\OP.SmartTalent.Api\OP.SmartTalent.Shared\obj\Release\net6.0\OP.SmartTalent.Shared.AssemblyInfo.cs
+C:\Project\SmartTalent\OP.SmartTalent.Api\OP.SmartTalent.Shared\obj\Release\net6.0\OP.SmartTalent.Shared.csproj.CoreCompileInputs.cache
+C:\Project\SmartTalent\OP.SmartTalent.Api\OP.SmartTalent.Shared\obj\Release\net6.0\OP.SmartTalent.Shared.csproj.CopyComplete
+C:\Project\SmartTalent\OP.SmartTalent.Api\OP.SmartTalent.Shared\obj\Release\net6.0\OP.SmartTalent.Shared.dll
+C:\Project\SmartTalent\OP.SmartTalent.Api\OP.SmartTalent.Shared\obj\Release\net6.0\refint\OP.SmartTalent.Shared.dll
+C:\Project\SmartTalent\OP.SmartTalent.Api\OP.SmartTalent.Shared\obj\Release\net6.0\OP.SmartTalent.Shared.pdb
+C:\Project\SmartTalent\OP.SmartTalent.Api\OP.SmartTalent.Shared\obj\Release\net6.0\ref\OP.SmartTalent.Shared.dll

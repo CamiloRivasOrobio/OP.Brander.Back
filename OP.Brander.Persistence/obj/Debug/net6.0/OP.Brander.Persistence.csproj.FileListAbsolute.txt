@@ -1,0 +1,17 @@
+C:\Project\Brander\OP.Brander.Back\OP.Brander.Persistence\bin\Debug\net6.0\OP.Brander.Persistence.deps.json
+C:\Project\Brander\OP.Brander.Back\OP.Brander.Persistence\bin\Debug\net6.0\OP.Brander.Persistence.dll
+C:\Project\Brander\OP.Brander.Back\OP.Brander.Persistence\bin\Debug\net6.0\OP.Brander.Persistence.pdb
+C:\Project\Brander\OP.Brander.Back\OP.Brander.Persistence\bin\Debug\net6.0\OP.Brander.Application.dll
+C:\Project\Brander\OP.Brander.Back\OP.Brander.Persistence\bin\Debug\net6.0\OP.Brander.Domain.dll
+C:\Project\Brander\OP.Brander.Back\OP.Brander.Persistence\bin\Debug\net6.0\OP.Brander.Application.pdb
+C:\Project\Brander\OP.Brander.Back\OP.Brander.Persistence\bin\Debug\net6.0\OP.Brander.Domain.pdb
+C:\Project\Brander\OP.Brander.Back\OP.Brander.Persistence\obj\Debug\net6.0\OP.Brander.Persistence.csproj.AssemblyReference.cache
+C:\Project\Brander\OP.Brander.Back\OP.Brander.Persistence\obj\Debug\net6.0\OP.Brander.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\Brander\OP.Brander.Back\OP.Brander.Persistence\obj\Debug\net6.0\OP.Brander.Persistence.AssemblyInfoInputs.cache
+C:\Project\Brander\OP.Brander.Back\OP.Brander.Persistence\obj\Debug\net6.0\OP.Brander.Persistence.AssemblyInfo.cs
+C:\Project\Brander\OP.Brander.Back\OP.Brander.Persistence\obj\Debug\net6.0\OP.Brander.Persistence.csproj.CoreCompileInputs.cache
+C:\Project\Brander\OP.Brander.Back\OP.Brander.Persistence\obj\Debug\net6.0\OP.Brander.Persistence.csproj.CopyComplete
+C:\Project\Brander\OP.Brander.Back\OP.Brander.Persistence\obj\Debug\net6.0\OP.Brander.Persistence.dll
+C:\Project\Brander\OP.Brander.Back\OP.Brander.Persistence\obj\Debug\net6.0\refint\OP.Brander.Persistence.dll
+C:\Project\Brander\OP.Brander.Back\OP.Brander.Persistence\obj\Debug\net6.0\OP.Brander.Persistence.pdb
+C:\Project\Brander\OP.Brander.Back\OP.Brander.Persistence\obj\Debug\net6.0\ref\OP.Brander.Persistence.dll
